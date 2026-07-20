@@ -16,7 +16,7 @@
 
 ###
 
-<p data-importer="text" align="left">Born from a crack in the earth while Mordor was drowning in ruins.<br>The moment a computer appeared in my life - IT followed.<br>Since then, bugs, pipelines, deploys, and logs have been my closest enemies.<br><br>Stack: Python, C++, Node.js, Django, FastAPI, Telegram Bot API <br>
+<p data-importer="text" align="left">Born from a crack in the earth while Mordor was drowning in ruins.<br>The moment a computer appeared in my life - IT followed.<br>Since then, bugs, pipelines, deploys, and logs have been my closest enemies.<br><br>Stack: Python, C++, JS/TS, Node.js, Django, FastAPI, Telegram Bot API <br>
 aiogram, Discord Bots API, CMake, Objective-C, Terminal <br>
 Docker, Git, PostgreSQL, Redis, SQLite <br>
 SQLAlchemy, Pydantic, REST API, WebSocket<br><br>Language: English🇺🇸</p>
